@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/f1114f59-61b6-4d75-a064-c8d94c4d689a)
+
+
 Convo Craft - AI Chatbot
 **An AI-powered chatbot built with OpenAI API**
 
